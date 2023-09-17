@@ -1,0 +1,17 @@
+body {
+    background:  purple;
+}
+
+img {
+    padding: 50px;
+}
+
+
+p {
+    font-style: italic;
+    color: black    
+}
+
+footer {
+    text-align: center;
+}
